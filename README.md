@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Md. Sadman Haque Adib</h1>
+<h1 align="center">Hello 👋, I'm Md. Sadman Haque Adib.</h1>
 <h3 align="center">Passionate about AI, Machine Learning, Deep Learning, NLP, Large Language Models, Computer Vision, and Image Processing. I love exploring new ideas in these fields.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadman-adib&label=Profile%20views&color=0e75b6&style=flat" alt="sadman-adib" /> </p>
