@@ -2,15 +2,6 @@
 
 ![Neural Network Header](https://raw.githubusercontent.com/sadman-adib/sadman-adib/main/nn.gif)
 
-  <!-- LABEL -->
-  <text x="440" y="205" text-anchor="middle"
-        font-family="monospace"
-        font-size="11"
-        fill="#1e4d6b"
-        letter-spacing="3">
-    INPUT • PROCESS • LEARN • OUTPUT
-  </text>
-
 </div>
 
 ---
